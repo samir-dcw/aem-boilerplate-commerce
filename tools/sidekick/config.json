@@ -1,0 +1,5 @@
+{
+  "project": "aem-boilerplate-commerce",
+  "editUrlLabel": "Document Authoring",
+  "editUrlPattern": "https://da.live/edit#/samir-dcw/aem-boilerplate-commerce{{pathname}}"
+}
